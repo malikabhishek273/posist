@@ -1,1 +1,1 @@
-# posist
+I am making a class of nodes with proper functions and data members and then making dynamic vector list to save nodes hairarchyly and decreasing nodes values accourding to the constraints of the questions.
